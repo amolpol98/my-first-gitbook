@@ -1,19 +1,19 @@
 {
-  "name": "gitbook-publishable-template",
+  "name": "first-gitbook",
   "version": "1.0.0",
-  "description": "A template for publishing a Gitboo",
+  "description": "My first gitbook",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rebeccapeltz/gitbook-publishable-template.git"
+    "url": "git+https://github.com/amolpol98/my-first-gitbook.git"
   },
-  "author": "Becky Peltz",
+  "author": "Amol Pol",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rebeccapeltz/gitbook-publishable-template/issues"
+    "url": "https://github.com/amolpol98/my-first-gitbook/issues"
   },
   "devDependencies": {
     "child_process": "^1.0.2",
@@ -21,5 +21,5 @@
     "gulp": "4.0.0",
     "gulp-load-plugins": "^1.5.0"
   },
-  "homepage": "https://github.com/rebeccapeltz/gitbook-publishable-tempalte#readme"
+  "homepage": "https://github.com/amolpol98/my-first-gitbook#readme"
 }
